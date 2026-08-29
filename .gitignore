@@ -1,0 +1,16 @@
+uploads/
+/uploads/*
+!uploads/.keep
+
+config/database.php
+.env
+
+*.log
+logs/
+error_log
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+ vendor/
